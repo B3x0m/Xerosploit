@@ -1,8 +1,7 @@
 
 [![Version](https://img.shields.io/badge/Xerosploit-Version_1.0-brightgreen.svg?maxAge=259200)]()
-[![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)]()
+[![PyPI](https://img.shields.io/badge/Python-3.10-blue.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-linux-orange.svg)]()
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 Xerosploit
 =
@@ -30,8 +29,9 @@ Instalation
 =
 Dependencies will be automatically installed.
 
-    git clone https://github.com/LionSec/xerosploit
-    cd xerosploit && sudo python install.py
+    git clone https://github.com/B3x0m/Xerosploit
+    cd xerosploit && unzip xerosploit.zip
+    sudo python install.py
     sudo xerosploit
 
 
@@ -73,6 +73,8 @@ features
 - Images replacement
 - Drifnet
 - Webpage defacement and more ...
+
+All Credit is due to LionSec!!
 
 Demonstration
 =
