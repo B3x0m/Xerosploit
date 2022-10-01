@@ -74,8 +74,6 @@ features
 - Drifnet
 - Webpage defacement and more ...
 
-All Credit is due to LionSec!!
-
 Demonstration
 =
 https://www.youtube.com/watch?v=35QUrtZEV9U
@@ -84,3 +82,8 @@ If you have any ask
 =
 
 Please visit https://github.com/B3x0m/xerosploit/issues
+
+Credit
+=
+
+Created by LionSec
