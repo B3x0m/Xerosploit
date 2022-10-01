@@ -45,15 +45,15 @@ Tested on
     </tr>
     <tr>
         <td>Ubuntu</td>
-        <td> 16.04  / 15.10 </td>
+        <td> 22.04 </td>
     </tr>
     <tr>
         <td>Kali linux</td>
-        <td> Rolling / Sana</td>
+        <td> 22.03 / WSL2 </td>
     </tr>
     <tr>
         <td>Parrot OS</td>
-        <td>3.1 </td>
+        <td>5.1 </td>
     </tr>
 </table>
 
