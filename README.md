@@ -80,18 +80,18 @@ Demonstration
 =
 https://www.youtube.com/watch?v=35QUrtZEV9U
 
-I have some questions!
+If you have any ask
 =
 
-Please visit https://github.com/LionSec/xerosploit/issues
+Please visit https://github.com/B3x0m/xerosploit/issues
 
-Donations
+Donations to LionSec
 =
 - Paypal : https://www.paypal.me/lionsec
 - Bitcoin : 12dM5kZjYMizNuXaqu7QZBLNDkXjfKYpRD
 
 
-Contact
+Contact him
 =
 - Website : https://neodrix.com
 - Youtube : https://youtube.com/inf98es
