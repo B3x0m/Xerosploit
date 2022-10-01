@@ -43,7 +43,7 @@ Tested on
         <td>5.1 </td>
     </tr>
 </table>
-
+Now you have to install libpcap0.8 version 1.10.0 to use gem, I'll update later
 
 
 features 
