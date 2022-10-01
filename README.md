@@ -84,17 +84,3 @@ If you have any ask
 =
 
 Please visit https://github.com/B3x0m/xerosploit/issues
-
-Donations to LionSec
-=
-- Paypal : https://www.paypal.me/lionsec
-- Bitcoin : 12dM5kZjYMizNuXaqu7QZBLNDkXjfKYpRD
-
-
-Contact him
-=
-- Website : https://neodrix.com
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : informatic98es@gmail.com
