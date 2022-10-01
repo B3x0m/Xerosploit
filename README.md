@@ -31,7 +31,7 @@ Dependencies will be automatically installed.
 
     git clone https://github.com/B3x0m/Xerosploit
     cd xerosploit && unzip xerosploit.zip
-    sudo python install.py
+    sudo python3 install.py
     sudo xerosploit
 
 
