@@ -10,24 +10,11 @@ Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https
 
 ![](http://i.imgur.com/bbr48Ep.png)
 
-Dependencies
-=
-
-- nmap 
-- hping3 
-- build-essential 
-- ruby-dev 
-- libpcap-dev 
-- libgmp3-dev
-- tabulate 
-- terminaltables
-
 
 
 
 Instalation
 =
-Dependencies will be automatically installed.
 
     git clone https://github.com/B3x0m/Xerosploit
     cd xerosploit && unzip xerosploit.zip
